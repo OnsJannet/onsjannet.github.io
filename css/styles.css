@@ -1,0 +1,22 @@
+:root {
+
+	/* Colors */
+
+	--white:  #fff;
+	--blue: #005cef;
+	--red: #ff1f25;
+	--yellow:  #ffdd18;
+}
+
+.nav-bar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-bar li {
+	
+  display: inline;
+  font-size: 20px;
+  padding: 15px;
+}
